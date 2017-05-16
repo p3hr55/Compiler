@@ -1,0 +1,7 @@
+﻿  file.cpp
+c:\users\brandon\desktop\alvino compiler\p\out\file.cpp(101): warning C4102: 'begin_while_1': unreferenced label
+c:\users\brandon\desktop\alvino compiler\p\out\file.cpp(113): warning C4102: 'begin_while_2': unreferenced label
+c:\users\brandon\desktop\alvino compiler\p\out\file.cpp(130): warning C4102: 'or_1': unreferenced label
+c:\users\brandon\desktop\alvino compiler\p\out\file.cpp(17): warning C4731: 'main': frame pointer register 'ebp' modified by inline assembly code
+c:\users\brandon\desktop\alvino compiler\p\out\file.cpp(184): warning C4731: 'main': frame pointer register 'ebp' modified by inline assembly code
+  Out.vcxproj -> C:\Users\Brandon\Desktop\Alvino Compiler\P\Debug\Out.exe

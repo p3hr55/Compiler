@@ -1,0 +1,17 @@
+﻿  P.cpp
+c:\users\brandon\desktop\alvino compiler\p\p\lexer.h(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\desktop\alvino compiler\p\p\symbol_table.h(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\desktop\alvino compiler\p\p\parser.h(528): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\brandon\desktop\alvino compiler\p\p\parser.h(528): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\brandon\desktop\alvino compiler\p\p\parser.h(566): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\brandon\desktop\alvino compiler\p\p\parser.h(566): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\brandon\desktop\alvino compiler\p\p\parser.h(1015): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\brandon\desktop\alvino compiler\p\p\parser.h(1015): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\brandon\desktop\alvino compiler\p\p\parser.h(1084): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\brandon\desktop\alvino compiler\p\p\parser.h(1084): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\brandon\desktop\alvino compiler\p\p\parser.h(1280): warning C4018: '<=': signed/unsigned mismatch
+c:\users\brandon\desktop\alvino compiler\p\p\parser.h(1427): warning C4018: '<=': signed/unsigned mismatch
+c:\users\brandon\desktop\alvino compiler\p\p\parser.h(1449): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\desktop\alvino compiler\p\p\symbol_table.h(238): warning C4715: 'SymbolTable::varToType': not all control paths return a value
+c:\users\brandon\desktop\alvino compiler\p\p\symbol_table.h(116): warning C4715: 'SymbolTable::paramOffset': not all control paths return a value
+  P.vcxproj -> C:\Users\Brandon\Desktop\Alvino Compiler\P\Debug\P.exe
